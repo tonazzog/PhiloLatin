@@ -1,0 +1,19 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX vartrans: <http://www.w3.org/ns/lemon/vartrans#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+
+SELECT ?wr ?wrEn ?def
+WHERE {
+  ?form ontolex:writtenRep ?wr.
+  FILTER (?wr ="Homo homini lupus"@la).
+  ?expression rdf:type ontolex:LexicalEntry ;
+              ontolex:canonicalForm ?form .
+  ?expression ontolex:evokes ?concept.
+  ?concept skos:definition ?def.
+  ?trans vartrans:source ?expression ;
+  		 vartrans:target ?expressionEn .
+  ?expressionEn ontolex:canonicalForm ?formEn .
+  ?formEn ontolex:writtenRep ?wrEn.
+}

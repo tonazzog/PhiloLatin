@@ -1,0 +1,5525 @@
+{
+    "a_dicto_secundum_quid": {
+        "sentences": [
+            [
+                {
+                    "token": "a",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "dicto",
+                    "lemma": "dictum",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:100416"
+                    ]
+                },
+                {
+                    "token": "secundum",
+                    "lemma": "secundum",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:127508"
+                    ]
+                },
+                {
+                    "token": "quid",
+                    "lemma": "qui",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121354"
+                    ]
+                },
+                {
+                    "token": "ad",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "dictum",
+                    "lemma": "dictum",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:100416"
+                    ]
+                },
+                {
+                    "token": "simpliciter",
+                    "lemma": "simpliciter",
+                    "upos": "ADV",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaIpoLemma:40941"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 7,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "a_dicto_simpliciter_ad": {
+        "sentences": [
+            [
+                {
+                    "token": "a",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "dicto",
+                    "lemma": "dictum",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:100416"
+                    ]
+                },
+                {
+                    "token": "simpliciter",
+                    "lemma": "simpliciter",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaIpoLemma:40941"
+                    ]
+                },
+                {
+                    "token": "ad",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "dictum",
+                    "lemma": "dictum",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:100416"
+                    ]
+                },
+                {
+                    "token": "secundum",
+                    "lemma": "secundum",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:127508"
+                    ]
+                },
+                {
+                    "token": "quid",
+                    "lemma": "qui",
+                    "upos": "PRON",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:121354"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 7,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "a_fortiori": {
+        "sentences": [
+            [
+                {
+                    "token": "a",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "fortiori",
+                    "lemma": "fortis",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:103690"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "a_necesse_ad_esse": {
+        "sentences": [
+            [
+                {
+                    "token": "a",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "necesse",
+                    "lemma": "necesse",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:113513"
+                    ]
+                },
+                {
+                    "token": "ad",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "esse",
+                    "lemma": "esse",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:50040"
+                    ]
+                },
+                {
+                    "token": "valet",
+                    "lemma": "ualeo",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:129509"
+                    ]
+                },
+                {
+                    "token": "consequentia",
+                    "lemma": "consequentia",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:97801"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 5,
+            "ambiguous": 0,
+            "missing": 1
+        }
+    },
+    "a_posteriori": {
+        "sentences": [
+            [
+                {
+                    "token": "a",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "posteriori",
+                    "lemma": "posterus",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:120781"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "a_priori": {
+        "sentences": [
+            [
+                {
+                    "token": "a",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "priori",
+                    "lemma": "prior",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:119509"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ab_esse_ad_posse": {
+        "sentences": [
+            [
+                {
+                    "token": "ab",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "esse",
+                    "lemma": "esse",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:50040"
+                    ]
+                },
+                {
+                    "token": "ad",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "posse",
+                    "lemma": "possum",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:118569"
+                    ]
+                },
+                {
+                    "token": "valet",
+                    "lemma": "ualeo",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:129509"
+                    ]
+                },
+                {
+                    "token": "consequentia",
+                    "lemma": "consequentia",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:97801"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 6,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ab_ovo": {
+        "sentences": [
+            [
+                {
+                    "token": "ab",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "ovo",
+                    "lemma": "ouum",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:115446"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "actus_purus": {
+        "sentences": [
+            [
+                {
+                    "token": "actus",
+                    "lemma": "actus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:91175"
+                    ]
+                },
+                {
+                    "token": "purus",
+                    "lemma": "purus",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:120570"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ad_hoc": {
+        "sentences": [
+            [
+                {
+                    "token": "ad",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "hoc",
+                    "lemma": "hic",
+                    "upos": "DET",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:105455"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ad_hoc_hypothesis": {
+        "sentences": [
+            [
+                {
+                    "token": "ad",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "hoc",
+                    "lemma": "hic",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:105455"
+                    ]
+                },
+                {
+                    "token": "hypothesis",
+                    "lemma": "haypothesis",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:105935"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 1
+        }
+    },
+    "ad_infinitum": {
+        "sentences": [
+            [
+                {
+                    "token": "ad",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "infinitum",
+                    "lemma": "infinitus",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:107685"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "amicus_plato_sed_magis": {
+        "sentences": [
+            [
+                {
+                    "token": "amicus",
+                    "lemma": "amicus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:88684"
+                    ]
+                },
+                {
+                    "token": "Plato",
+                    "lemma": "plato",
+                    "upos": "PROPN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:18903"
+                    ]
+                },
+                {
+                    "token": "sed",
+                    "lemma": "sed",
+                    "upos": "CCONJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:123994"
+                    ]
+                },
+                {
+                    "token": "magis",
+                    "lemma": "magis",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:111271"
+                    ]
+                },
+                {
+                    "token": "amica",
+                    "lemma": "amica",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87694"
+                    ]
+                },
+                {
+                    "token": "veritas",
+                    "lemma": "ueritas",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:129876"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 6,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "amor_fati": {
+        "sentences": [
+            [
+                {
+                    "token": "amor",
+                    "lemma": "amor",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:88717"
+                    ]
+                },
+                {
+                    "token": "fati",
+                    "lemma": "fatum",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:103575"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "anima_mundi": {
+        "sentences": [
+            [
+                {
+                    "token": "anima",
+                    "lemma": "anima",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:89075"
+                    ]
+                },
+                {
+                    "token": "mundi",
+                    "lemma": "mundus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:113024"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "argumentum_ad_baculum": {
+        "sentences": [
+            [
+                {
+                    "token": "argumentum",
+                    "lemma": "argumentum",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:89946"
+                    ]
+                },
+                {
+                    "token": "ad",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "baculum",
+                    "lemma": "baculus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:91226"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "argumentum_ad_hominem": {
+        "sentences": [
+            [
+                {
+                    "token": "argumentum",
+                    "lemma": "argumentum",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:89946"
+                    ]
+                },
+                {
+                    "token": "ad",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "hominem",
+                    "lemma": "homo",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:105624"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "argumentum_ad_populum": {
+        "sentences": [
+            [
+                {
+                    "token": "argumentum",
+                    "lemma": "argumentum",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:89946"
+                    ]
+                },
+                {
+                    "token": "ad",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "populum",
+                    "lemma": "populus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:118463"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "ars_gratia_artis": {
+        "sentences": [
+            [
+                {
+                    "token": "ars",
+                    "lemma": "ars",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:90089"
+                    ]
+                },
+                {
+                    "token": "gratia",
+                    "lemma": "gratia",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:104869"
+                    ]
+                },
+                {
+                    "token": "artis",
+                    "lemma": "ars",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:90089"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "barbara": {
+        "sentences": [
+            [
+                {
+                    "token": "barbara",
+                    "lemma": "barbarus",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:91325"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "bellum_omnium_contra_omnes": {
+        "sentences": [
+            [
+                {
+                    "token": "bellum",
+                    "lemma": "bellum",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:91461"
+                    ]
+                },
+                {
+                    "token": "omnium",
+                    "lemma": "omnis",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114954"
+                    ]
+                },
+                {
+                    "token": "contra",
+                    "lemma": "contra",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:96322"
+                    ]
+                },
+                {
+                    "token": "omnes",
+                    "lemma": "omnis",
+                    "upos": "DET",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:114954"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 4,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "causa_sine_qua_non": {
+        "sentences": [
+            [
+                {
+                    "token": "causa",
+                    "lemma": "causa",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:93253"
+                    ]
+                },
+                {
+                    "token": "sine",
+                    "lemma": "sine",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:124883"
+                    ]
+                },
+                {
+                    "token": "qua",
+                    "lemma": "qui",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121354"
+                    ]
+                },
+                {
+                    "token": "non",
+                    "lemma": "non",
+                    "upos": "ADV",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:114108"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 4,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "causa_sui": {
+        "sentences": [
+            [
+                {
+                    "token": "causa",
+                    "lemma": "causa",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:93253"
+                    ]
+                },
+                {
+                    "token": "sui",
+                    "lemma": "sui",
+                    "upos": "PRON",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:131255"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ceteris_paribus": {
+        "sentences": [
+            [
+                {
+                    "token": "ceteris",
+                    "lemma": "ceterus",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:93624"
+                    ]
+                },
+                {
+                    "token": "paribus",
+                    "lemma": "par",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:115903"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "characteristica_universalis": {
+        "sentences": [
+            [
+                {
+                    "token": "characteristica",
+                    "lemma": "characteristica",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:93704"
+                    ]
+                },
+                {
+                    "token": "universalis",
+                    "lemma": "uniuersalis",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:130695"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 0,
+            "missing": 1
+        }
+    },
+    "cogito_ergo_sum": {
+        "sentences": [
+            [
+                {
+                    "token": "cogito",
+                    "lemma": "cogito",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:97288"
+                    ]
+                },
+                {
+                    "token": "ergo",
+                    "lemma": "ergo",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:101414"
+                    ]
+                },
+                {
+                    "token": "sum",
+                    "lemma": "sum",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:126689"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 2,
+            "missing": 0
+        }
+    },
+    "conditio_sine_qua_non": {
+        "sentences": [
+            [
+                {
+                    "token": "conditio",
+                    "lemma": "condicio",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:95648"
+                    ]
+                },
+                {
+                    "token": "sine",
+                    "lemma": "sine",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:124883"
+                    ]
+                },
+                {
+                    "token": "qua",
+                    "lemma": "qui",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121354"
+                    ]
+                },
+                {
+                    "token": "non",
+                    "lemma": "non",
+                    "upos": "ADV",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:114108"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 4,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "consequentia_mirabilis": {
+        "sentences": [
+            [
+                {
+                    "token": "consequentia",
+                    "lemma": "consequor",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:96035"
+                    ]
+                },
+                {
+                    "token": "mirabilis",
+                    "lemma": "mirabilis",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:112428"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "creatio_ex_nihilo": {
+        "sentences": [
+            [
+                {
+                    "token": "creatio",
+                    "lemma": "creatio",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:96864"
+                    ]
+                },
+                {
+                    "token": "ex",
+                    "lemma": "ex",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:101716"
+                    ]
+                },
+                {
+                    "token": "nihilo",
+                    "lemma": "nihilum",
+                    "upos": "PRON",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:114071"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "credo_quia_absurdum_est": {
+        "sentences": [
+            [
+                {
+                    "token": "credo",
+                    "lemma": "credo",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:96881"
+                    ]
+                },
+                {
+                    "token": "quia",
+                    "lemma": "quia",
+                    "upos": "SCONJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121166"
+                    ]
+                },
+                {
+                    "token": "absurdum",
+                    "lemma": "absurdus",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87045"
+                    ]
+                },
+                {
+                    "token": "est",
+                    "lemma": "sum",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:126689"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 4,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "credo_quia_impossibile_est": {
+        "sentences": [
+            [
+                {
+                    "token": "credo",
+                    "lemma": "credo",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:96881"
+                    ]
+                },
+                {
+                    "token": "quia",
+                    "lemma": "quia",
+                    "upos": "SCONJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121166"
+                    ]
+                },
+                {
+                    "token": "impossibile",
+                    "lemma": "impossibilis",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:106651"
+                    ]
+                },
+                {
+                    "token": "est",
+                    "lemma": "sum",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:126689"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 4,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "credo_ut_intelligam": {
+        "sentences": [
+            [
+                {
+                    "token": "credo",
+                    "lemma": "credo",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:96881"
+                    ]
+                },
+                {
+                    "token": "ut",
+                    "lemma": "ut",
+                    "upos": "SCONJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:130906"
+                    ]
+                },
+                {
+                    "token": "intelligam",
+                    "lemma": "intelligo",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:108367"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "cui_bono": {
+        "sentences": [
+            [
+                {
+                    "token": "cui",
+                    "lemma": "quis",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121165"
+                    ]
+                },
+                {
+                    "token": "bono",
+                    "lemma": "bonum",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:91351"
+                    ]
+                },
+                {
+                    "token": "?",
+                    "lemma": "?",
+                    "upos": "PUNCT",
+                    "spaceAfter": "",
+                    "linking": []
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "de_dicto": {
+        "sentences": [
+            [
+                {
+                    "token": "de",
+                    "lemma": "de",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:97932"
+                    ]
+                },
+                {
+                    "token": "dicto",
+                    "lemma": "dictus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:100417"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "de_facto": {
+        "sentences": [
+            [
+                {
+                    "token": "de",
+                    "lemma": "de",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:97932"
+                    ]
+                },
+                {
+                    "token": "facto",
+                    "lemma": "factum",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:104164"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "de_gustibus_non_disputandum": {
+        "sentences": [
+            [
+                {
+                    "token": "de",
+                    "lemma": "de",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:97932"
+                    ]
+                },
+                {
+                    "token": "gustibus",
+                    "lemma": "gustus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:104979"
+                    ]
+                },
+                {
+                    "token": "non",
+                    "lemma": "non",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114108"
+                    ]
+                },
+                {
+                    "token": "disputandum",
+                    "lemma": "disputo",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:99764"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 4,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "de_jure": {
+        "sentences": [
+            [
+                {
+                    "token": "de",
+                    "lemma": "de",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:97932"
+                    ]
+                },
+                {
+                    "token": "jure",
+                    "lemma": "jura",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:60526"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "de_re": {
+        "sentences": [
+            [
+                {
+                    "token": "de",
+                    "lemma": "de",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:97932"
+                    ]
+                },
+                {
+                    "token": "re",
+                    "lemma": "res",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:121868"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "deus_sive_natura": {
+        "sentences": [
+            [
+                {
+                    "token": "deus",
+                    "lemma": "deus",
+                    "upos": "PROPN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:4810"
+                    ]
+                },
+                {
+                    "token": "sive",
+                    "lemma": "siue",
+                    "upos": "CCONJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:80949"
+                    ]
+                },
+                {
+                    "token": "natura",
+                    "lemma": "natura",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:113421"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "dictum_de_omni_et": {
+        "sentences": [
+            [
+                {
+                    "token": "dictum",
+                    "lemma": "dico",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:99302"
+                    ]
+                },
+                {
+                    "token": "de",
+                    "lemma": "de",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:97932"
+                    ]
+                },
+                {
+                    "token": "omni",
+                    "lemma": "omnis",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114954"
+                    ]
+                },
+                {
+                    "token": "et",
+                    "lemma": "et",
+                    "upos": "CCONJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:101542"
+                    ]
+                },
+                {
+                    "token": "nullo",
+                    "lemma": "nullus",
+                    "upos": "DET",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:114081"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 4,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "do_ut_des": {
+        "sentences": [
+            [
+                {
+                    "token": "do",
+                    "lemma": "do",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:99970"
+                    ]
+                },
+                {
+                    "token": "ut",
+                    "lemma": "ut",
+                    "upos": "SCONJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:130906"
+                    ]
+                },
+                {
+                    "token": "des",
+                    "lemma": "do",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:99970"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "dubito_ergo_cogito_ergo": {
+        "sentences": [
+            [
+                {
+                    "token": "dubito",
+                    "lemma": "dubito",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:100176"
+                    ]
+                },
+                {
+                    "token": "ergo",
+                    "lemma": "ergo",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:101414"
+                    ]
+                }
+            ],
+            [
+                {
+                    "token": "cogito",
+                    "lemma": "cogito",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:97288"
+                    ]
+                },
+                {
+                    "token": "ergo",
+                    "lemma": "ergo",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:101414"
+                    ]
+                },
+                {
+                    "token": "sum",
+                    "lemma": "sum",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:126689"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 3,
+            "missing": 0
+        }
+    },
+    "dum_spiro_spero": {
+        "sentences": [
+            [
+                {
+                    "token": "dum",
+                    "lemma": "dum",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:100236"
+                    ]
+                },
+                {
+                    "token": "spiro",
+                    "lemma": "spiro",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:125407"
+                    ]
+                },
+                {
+                    "token": "spero",
+                    "lemma": "spero",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:125334"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 1
+        }
+    },
+    "ens_causa_sui": {
+        "sentences": [
+            [
+                {
+                    "token": "ens",
+                    "lemma": "ens",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:135849"
+                    ]
+                },
+                {
+                    "token": "causa",
+                    "lemma": "causa",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:93253"
+                    ]
+                },
+                {
+                    "token": "sui",
+                    "lemma": "sui",
+                    "upos": "PRON",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:131255"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ens_rationis": {
+        "sentences": [
+            [
+                {
+                    "token": "ens",
+                    "lemma": "ens",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:135849"
+                    ]
+                },
+                {
+                    "token": "rationis",
+                    "lemma": "ratio",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:121458"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ens_realissimum": {
+        "sentences": [
+            [
+                {
+                    "token": "ens",
+                    "lemma": "ens",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:135849"
+                    ]
+                },
+                {
+                    "token": "realissimum",
+                    "lemma": "realissimus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:131421"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 0,
+            "missing": 1
+        }
+    },
+    "entia_non_sunt_multiplicanda": {
+        "sentences": [
+            [
+                {
+                    "token": "entia",
+                    "lemma": "ens",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:135849"
+                    ]
+                },
+                {
+                    "token": "non",
+                    "lemma": "non",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114108"
+                    ]
+                },
+                {
+                    "token": "sunt",
+                    "lemma": "sum",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:126689"
+                    ]
+                },
+                {
+                    "token": "multiplicanda",
+                    "lemma": "multiplico",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:112975"
+                    ]
+                },
+                {
+                    "token": "praeter",
+                    "lemma": "praeter",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:119286"
+                    ]
+                },
+                {
+                    "token": "necessitatem",
+                    "lemma": "necessitas",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:113509"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 6,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "esse_est_percipi": {
+        "sentences": [
+            [
+                {
+                    "token": "esse",
+                    "lemma": "sum",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:126689"
+                    ]
+                },
+                {
+                    "token": "est",
+                    "lemma": "sum",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:126689"
+                    ]
+                },
+                {
+                    "token": "percipi",
+                    "lemma": "percipio",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:116656"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ex_falso_quodlibet": {
+        "sentences": [
+            [
+                {
+                    "token": "ex",
+                    "lemma": "ex",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:101716"
+                    ]
+                },
+                {
+                    "token": "falso",
+                    "lemma": "falsus",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaIpoLemma:16178"
+                    ]
+                },
+                {
+                    "token": "quodlibet",
+                    "lemma": "quilibet",
+                    "upos": "DET",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:121317"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ex_nihilo_nihil_fit": {
+        "sentences": [
+            [
+                {
+                    "token": "ex",
+                    "lemma": "ex",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:101716"
+                    ]
+                },
+                {
+                    "token": "nihilo",
+                    "lemma": "nihilum",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114071"
+                    ]
+                },
+                {
+                    "token": "nihil",
+                    "lemma": "nihil",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114071"
+                    ]
+                },
+                {
+                    "token": "fit",
+                    "lemma": "fio",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:103328"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 4,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ex_post_facto": {
+        "sentences": [
+            [
+                {
+                    "token": "ex",
+                    "lemma": "ex",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:101716"
+                    ]
+                },
+                {
+                    "token": "post",
+                    "lemma": "post",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:118573"
+                    ]
+                },
+                {
+                    "token": "facto",
+                    "lemma": "fio",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:103328"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ex_vi_terminorum": {
+        "sentences": [
+            [
+                {
+                    "token": "ex",
+                    "lemma": "ex",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:101716"
+                    ]
+                },
+                {
+                    "token": "vi",
+                    "lemma": "uis",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:130360"
+                    ]
+                },
+                {
+                    "token": "terminorum",
+                    "lemma": "terminus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:127901"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "felix_qui_potuit_rerum": {
+        "sentences": [
+            [
+                {
+                    "token": "felix",
+                    "lemma": "felix",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:103068"
+                    ]
+                },
+                {
+                    "token": "qui",
+                    "lemma": "qui",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121354"
+                    ]
+                },
+                {
+                    "token": "potuit",
+                    "lemma": "possum",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:118569"
+                    ]
+                },
+                {
+                    "token": "rerum",
+                    "lemma": "res",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121868"
+                    ]
+                },
+                {
+                    "token": "cognoscere",
+                    "lemma": "cognosco",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:94738"
+                    ]
+                },
+                {
+                    "token": "causas",
+                    "lemma": "causa",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:93253"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 6,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "fiat_justitia_ruat_caelum": {
+        "sentences": [
+            [
+                {
+                    "token": "fiat",
+                    "lemma": "fio",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:103328"
+                    ]
+                },
+                {
+                    "token": "justitia",
+                    "lemma": "iustitia",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:109264"
+                    ]
+                },
+                {
+                    "token": "ruat",
+                    "lemma": "ruo",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:122884"
+                    ]
+                },
+                {
+                    "token": "caelum",
+                    "lemma": "caelum",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:92231"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "fides_quaerens_intellectum": {
+        "sentences": [
+            [
+                {
+                    "token": "fides",
+                    "lemma": "fides",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:103260"
+                    ]
+                },
+                {
+                    "token": "quaerens",
+                    "lemma": "quaero",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121047"
+                    ]
+                },
+                {
+                    "token": "intellectum",
+                    "lemma": "intellectus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:109547"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "fundamentum_divisionis": {
+        "sentences": [
+            [
+                {
+                    "token": "fundamentum",
+                    "lemma": "fundamentum",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:104001"
+                    ]
+                },
+                {
+                    "token": "divisionis",
+                    "lemma": "diuisio",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:99948"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "genius_loci": {
+        "sentences": [
+            [
+                {
+                    "token": "genius",
+                    "lemma": "genius",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:104487"
+                    ]
+                },
+                {
+                    "token": "loci",
+                    "lemma": "locus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:110019"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "homo_oeconomicus": {
+        "sentences": [
+            [
+                {
+                    "token": "homo",
+                    "lemma": "homo",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:105624"
+                    ]
+                },
+                {
+                    "token": "oeconomicus",
+                    "lemma": "oeconomicus",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:114745"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 0,
+            "missing": 1
+        }
+    },
+    "homo_faber": {
+        "sentences": [
+            [
+                {
+                    "token": "homo",
+                    "lemma": "homo",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:105624"
+                    ]
+                },
+                {
+                    "token": "faber",
+                    "lemma": "faber",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:102714"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "homo_homini_lupus": {
+        "sentences": [
+            [
+                {
+                    "token": "homo",
+                    "lemma": "homo",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:105624"
+                    ]
+                },
+                {
+                    "token": "homini",
+                    "lemma": "homo",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:105624"
+                    ]
+                },
+                {
+                    "token": "lupus",
+                    "lemma": "lupus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:110971"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "hypotheses_non_fingo": {
+        "sentences": [
+            [
+                {
+                    "token": "hypotheses",
+                    "lemma": "haypothesis",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:105935"
+                    ]
+                },
+                {
+                    "token": "non",
+                    "lemma": "non",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114108"
+                    ]
+                },
+                {
+                    "token": "fingo",
+                    "lemma": "fingo",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:103319"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 1
+        }
+    },
+    "id_quod_nihil_maius": {
+        "sentences": [
+            [
+                {
+                    "token": "id",
+                    "lemma": "is",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:109083"
+                    ]
+                },
+                {
+                    "token": "quod",
+                    "lemma": "qui",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121354"
+                    ]
+                },
+                {
+                    "token": "nihil",
+                    "lemma": "nihil",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114071"
+                    ]
+                },
+                {
+                    "token": "maius",
+                    "lemma": "magnus",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:111319"
+                    ]
+                },
+                {
+                    "token": "cogitari",
+                    "lemma": "cogito",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:97288"
+                    ]
+                },
+                {
+                    "token": "potest",
+                    "lemma": "possum",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:118569"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 5,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "ignoratio_elenchi": {
+        "sentences": [
+            [
+                {
+                    "token": "ignoratio",
+                    "lemma": "ignoratio",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:106172"
+                    ]
+                },
+                {
+                    "token": "elenchi",
+                    "lemma": "elencho",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:100794"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 0,
+            "missing": 1
+        }
+    },
+    "in_absentia": {
+        "sentences": [
+            [
+                {
+                    "token": "in",
+                    "lemma": "in",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:106748"
+                    ]
+                },
+                {
+                    "token": "absentia",
+                    "lemma": "absentia",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:87024"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "in_actu": {
+        "sentences": [
+            [
+                {
+                    "token": "in",
+                    "lemma": "in",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:106748"
+                    ]
+                },
+                {
+                    "token": "actu",
+                    "lemma": "actus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:91175"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "in_cauda_venenum": {
+        "sentences": [
+            [
+                {
+                    "token": "in",
+                    "lemma": "in",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:106748"
+                    ]
+                },
+                {
+                    "token": "cauda",
+                    "lemma": "cauda",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:93186"
+                    ]
+                },
+                {
+                    "token": "venenum",
+                    "lemma": "uenenum",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:129769"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "in_esse": {
+        "sentences": [
+            [
+                {
+                    "token": "in",
+                    "lemma": "in",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:106748"
+                    ]
+                },
+                {
+                    "token": "esse",
+                    "lemma": "esse",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:50040"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "in_medias_res": {
+        "sentences": [
+            [
+                {
+                    "token": "in",
+                    "lemma": "in",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:106748"
+                    ]
+                },
+                {
+                    "token": "medias",
+                    "lemma": "medius",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:111841"
+                    ]
+                },
+                {
+                    "token": "res",
+                    "lemma": "res",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:121868"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "in_nuce": {
+        "sentences": [
+            [
+                {
+                    "token": "in",
+                    "lemma": "in",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:106748"
+                    ]
+                },
+                {
+                    "token": "nuce",
+                    "lemma": "nux",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:114044"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "in_potentia": {
+        "sentences": [
+            [
+                {
+                    "token": "in",
+                    "lemma": "in",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:106748"
+                    ]
+                },
+                {
+                    "token": "potentia",
+                    "lemma": "potentia",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:118570"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "in_propria_persona": {
+        "sentences": [
+            [
+                {
+                    "token": "in",
+                    "lemma": "in",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:106748"
+                    ]
+                },
+                {
+                    "token": "propria",
+                    "lemma": "proprius",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:119990"
+                    ]
+                },
+                {
+                    "token": "persona",
+                    "lemma": "persona",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:117325"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "intellectus_agens": {
+        "sentences": [
+            [
+                {
+                    "token": "intellectus",
+                    "lemma": "intellectus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:109547"
+                    ]
+                },
+                {
+                    "token": "agens",
+                    "lemma": "ago",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:88140"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "intellectus_possibilis": {
+        "sentences": [
+            [
+                {
+                    "token": "intellectus",
+                    "lemma": "intellectus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:109547"
+                    ]
+                },
+                {
+                    "token": "possibilis",
+                    "lemma": "possibilis",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:118564"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "inter_finitum_et_infinitum": {
+        "sentences": [
+            [
+                {
+                    "token": "inter",
+                    "lemma": "inter",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:108392"
+                    ]
+                },
+                {
+                    "token": "finitum",
+                    "lemma": "finio",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:103320"
+                    ]
+                },
+                {
+                    "token": "et",
+                    "lemma": "et",
+                    "upos": "CCONJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:101542"
+                    ]
+                },
+                {
+                    "token": "infinitum",
+                    "lemma": "infinitus",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:107685"
+                    ]
+                },
+                {
+                    "token": "non",
+                    "lemma": "non",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114108"
+                    ]
+                },
+                {
+                    "token": "est",
+                    "lemma": "sum",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:126689"
+                    ]
+                },
+                {
+                    "token": "proportio",
+                    "lemma": "proportio",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:119975"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 7,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "inventio_medii": {
+        "sentences": [
+            [
+                {
+                    "token": "inventio",
+                    "lemma": "inuentio",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:108809"
+                    ]
+                },
+                {
+                    "token": "medii",
+                    "lemma": "medius",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:111841"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ipse_dixit": {
+        "sentences": [
+            [
+                {
+                    "token": "ipse",
+                    "lemma": "ipse",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:108945"
+                    ]
+                },
+                {
+                    "token": "dixit",
+                    "lemma": "dico",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:99302"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "ipsissima_verba": {
+        "sentences": [
+            [
+                {
+                    "token": "ipsissima",
+                    "lemma": "ipsissimus",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:108947"
+                    ]
+                },
+                {
+                    "token": "verba",
+                    "lemma": "uerbum",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:131057"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ipso_facto": {
+        "sentences": [
+            [
+                {
+                    "token": "ipso",
+                    "lemma": "ipse",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:108945"
+                    ]
+                },
+                {
+                    "token": "facto",
+                    "lemma": "factum",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:104164"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "lex_parsimoniae": {
+        "sentences": [
+            [
+                {
+                    "token": "lex",
+                    "lemma": "lex",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:110351"
+                    ]
+                },
+                {
+                    "token": "parsimoniae",
+                    "lemma": "parsimonia",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:116086"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "lex_talionis": {
+        "sentences": [
+            [
+                {
+                    "token": "lex",
+                    "lemma": "lex",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:110351"
+                    ]
+                },
+                {
+                    "token": "talionis",
+                    "lemma": "talio",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:127589"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "locus_classicus": {
+        "sentences": [
+            [
+                {
+                    "token": "locus",
+                    "lemma": "locus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:110019"
+                    ]
+                },
+                {
+                    "token": "classicus",
+                    "lemma": "classicus",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:94444"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "materia_prima": {
+        "sentences": [
+            [
+                {
+                    "token": "materia",
+                    "lemma": "materia",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:111691"
+                    ]
+                },
+                {
+                    "token": "prima",
+                    "lemma": "primus",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:119498"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "memento_mori": {
+        "sentences": [
+            [
+                {
+                    "token": "memento",
+                    "lemma": "memini",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:111991"
+                    ]
+                },
+                {
+                    "token": "mori",
+                    "lemma": "morior",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:112796"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "mens_rea": {
+        "sentences": [
+            [
+                {
+                    "token": "mens",
+                    "lemma": "mens",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:112038"
+                    ]
+                },
+                {
+                    "token": "rea",
+                    "lemma": "reus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:122011"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "modus_ponens": {
+        "sentences": [
+            [
+                {
+                    "token": "modus",
+                    "lemma": "modus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:112553"
+                    ]
+                },
+                {
+                    "token": "ponens",
+                    "lemma": "pono",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:118414"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "modus_tollens": {
+        "sentences": [
+            [
+                {
+                    "token": "modus",
+                    "lemma": "modus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:112553"
+                    ]
+                },
+                {
+                    "token": "tollens",
+                    "lemma": "tollo",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:128357"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "modus_vivendi": {
+        "sentences": [
+            [
+                {
+                    "token": "modus",
+                    "lemma": "modus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:112553"
+                    ]
+                },
+                {
+                    "token": "vivendi",
+                    "lemma": "uiuo",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:130476"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "mundus_intelligibilis": {
+        "sentences": [
+            [
+                {
+                    "token": "mundus",
+                    "lemma": "mundus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:113024"
+                    ]
+                },
+                {
+                    "token": "intelligibilis",
+                    "lemma": "intelligibilis",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:59908"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "mundus_sensibilis": {
+        "sentences": [
+            [
+                {
+                    "token": "mundus",
+                    "lemma": "mundus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:113024"
+                    ]
+                },
+                {
+                    "token": "sensibilis",
+                    "lemma": "sensibilis",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:124328"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "mutatis_mutandis": {
+        "sentences": [
+            [
+                {
+                    "token": "mutatis",
+                    "lemma": "muto",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:113167"
+                    ]
+                },
+                {
+                    "token": "mutandis",
+                    "lemma": "muto",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:113167"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "natura_naturans": {
+        "sentences": [
+            [
+                {
+                    "token": "natura",
+                    "lemma": "natura",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:113421"
+                    ]
+                },
+                {
+                    "token": "naturans",
+                    "lemma": "naturor",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:83346"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 0,
+            "missing": 1
+        }
+    },
+    "natura_naturata": {
+        "sentences": [
+            [
+                {
+                    "token": "natura",
+                    "lemma": "natura",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:113421"
+                    ]
+                },
+                {
+                    "token": "naturata",
+                    "lemma": "natuerno",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:83345"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 0,
+            "missing": 1
+        }
+    },
+    "nihil_in_intellectu_nisi": {
+        "sentences": [
+            [
+                {
+                    "token": "nihil",
+                    "lemma": "nihil",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114071"
+                    ]
+                },
+                {
+                    "token": "in",
+                    "lemma": "in",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:106748"
+                    ]
+                },
+                {
+                    "token": "intellectu",
+                    "lemma": "intellectus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:109547"
+                    ]
+                },
+                {
+                    "token": "nisi",
+                    "lemma": "nisi",
+                    "upos": "SCONJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:113704"
+                    ]
+                },
+                {
+                    "token": "prius",
+                    "lemma": "prius",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:136134"
+                    ]
+                },
+                {
+                    "token": "in",
+                    "lemma": "in",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:106748"
+                    ]
+                },
+                {
+                    "token": "sensu",
+                    "lemma": "sensus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:124355"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 7,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "nihil_obstat": {
+        "sentences": [
+            [
+                {
+                    "token": "nihil",
+                    "lemma": "nihil",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114071"
+                    ]
+                },
+                {
+                    "token": "obstat",
+                    "lemma": "obsto",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:114464"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "nomen_est_omen": {
+        "sentences": [
+            [
+                {
+                    "token": "nomen",
+                    "lemma": "nomen",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:113797"
+                    ]
+                },
+                {
+                    "token": "est",
+                    "lemma": "sum",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:126689"
+                    ]
+                },
+                {
+                    "token": "omen",
+                    "lemma": "omen",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:114921"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "non_sequitur": {
+        "sentences": [
+            [
+                {
+                    "token": "non",
+                    "lemma": "non",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114108"
+                    ]
+                },
+                {
+                    "token": "sequitur",
+                    "lemma": "sequor",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:124461"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "nosce_te_ipsum": {
+        "sentences": [
+            [
+                {
+                    "token": "nosce",
+                    "lemma": "nosco",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:113840"
+                    ]
+                },
+                {
+                    "token": "te",
+                    "lemma": "tu",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:129131"
+                    ]
+                },
+                {
+                    "token": "ipsum",
+                    "lemma": "ipse",
+                    "upos": "DET",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:108945"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "obiter_dictum": {
+        "sentences": [
+            [
+                {
+                    "token": "obiter",
+                    "lemma": "obiter",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114239"
+                    ]
+                },
+                {
+                    "token": "dictum",
+                    "lemma": "dico",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:99302"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "obscurum_per_obscurius": {
+        "sentences": [
+            [
+                {
+                    "token": "obscurum",
+                    "lemma": "obscurus",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114385"
+                    ]
+                },
+                {
+                    "token": "per",
+                    "lemma": "per",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:116569"
+                    ]
+                },
+                {
+                    "token": "obscurius",
+                    "lemma": "obscur",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:114385"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 1
+        }
+    },
+    "per_accidens": {
+        "sentences": [
+            [
+                {
+                    "token": "per",
+                    "lemma": "per",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:116569"
+                    ]
+                },
+                {
+                    "token": "accidens",
+                    "lemma": "accidens",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:135844"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "per_genus_et_differentiam": {
+        "sentences": [
+            [
+                {
+                    "token": "per",
+                    "lemma": "per",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:116569"
+                    ]
+                },
+                {
+                    "token": "genus",
+                    "lemma": "genus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:104504"
+                    ]
+                },
+                {
+                    "token": "et",
+                    "lemma": "et",
+                    "upos": "CCONJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:101542"
+                    ]
+                },
+                {
+                    "token": "differentiam",
+                    "lemma": "differentia",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:100466"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "per_se": {
+        "sentences": [
+            [
+                {
+                    "token": "per",
+                    "lemma": "per",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:116569"
+                    ]
+                },
+                {
+                    "token": "se",
+                    "lemma": "sui",
+                    "upos": "PRON",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:131255"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "per_se_notum": {
+        "sentences": [
+            [
+                {
+                    "token": "per",
+                    "lemma": "per",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:116569"
+                    ]
+                },
+                {
+                    "token": "se",
+                    "lemma": "sui",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:131255"
+                    ]
+                },
+                {
+                    "token": "notum",
+                    "lemma": "nosco",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:113840"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "persona_non_grata": {
+        "sentences": [
+            [
+                {
+                    "token": "persona",
+                    "lemma": "persona",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:117325"
+                    ]
+                },
+                {
+                    "token": "non",
+                    "lemma": "non",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114108"
+                    ]
+                },
+                {
+                    "token": "grata",
+                    "lemma": "gratus",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:104886"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "petitio_principii": {
+        "sentences": [
+            [
+                {
+                    "token": "petitio",
+                    "lemma": "petitio",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:117542"
+                    ]
+                },
+                {
+                    "token": "principii",
+                    "lemma": "principium",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:119505"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "phenomena_bene_fundata": {
+        "sentences": [
+            [
+                {
+                    "token": "phenomena",
+                    "lemma": "phenomena",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:117585"
+                    ]
+                },
+                {
+                    "token": "bene",
+                    "lemma": "bene",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:91473"
+                    ]
+                },
+                {
+                    "token": "fundata",
+                    "lemma": "fundo",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:104013"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 0,
+            "ambiguous": 2,
+            "missing": 1
+        }
+    },
+    "philosophia_perennis": {
+        "sentences": [
+            [
+                {
+                    "token": "philosophia",
+                    "lemma": "philosophia",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:117663"
+                    ]
+                },
+                {
+                    "token": "perennis",
+                    "lemma": "perennis",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:116785"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "pons_asinorum": {
+        "sentences": [
+            [
+                {
+                    "token": "pons",
+                    "lemma": "pons",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:118415"
+                    ]
+                },
+                {
+                    "token": "asinorum",
+                    "lemma": "asinus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:90218"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "post_hoc_ergo_propter": {
+        "sentences": [
+            [
+                {
+                    "token": "post",
+                    "lemma": "post",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:118573"
+                    ]
+                }
+            ],
+            [
+                {
+                    "token": "hoc",
+                    "lemma": "hic",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:105455"
+                    ]
+                },
+                {
+                    "token": "ergo",
+                    "lemma": "ergo",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:101414"
+                    ]
+                },
+                {
+                    "token": "propter",
+                    "lemma": "propter",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:119992"
+                    ]
+                },
+                {
+                    "token": "hoc",
+                    "lemma": "hic",
+                    "upos": "DET",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:105455"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 4,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "praedicabilia": {
+        "sentences": [
+            [
+                {
+                    "token": "praedicabilia",
+                    "lemma": "praedicabilis",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:118826"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "prima_causa": {
+        "sentences": [
+            [
+                {
+                    "token": "prima",
+                    "lemma": "primus",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:119498"
+                    ]
+                },
+                {
+                    "token": "causa",
+                    "lemma": "causa",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:93253"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "prima_facie": {
+        "sentences": [
+            [
+                {
+                    "token": "prima",
+                    "lemma": "primus",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:119498"
+                    ]
+                },
+                {
+                    "token": "facie",
+                    "lemma": "facies",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:102752"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "primum_mobile": {
+        "sentences": [
+            [
+                {
+                    "token": "primum",
+                    "lemma": "primus",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:119498"
+                    ]
+                },
+                {
+                    "token": "mobile",
+                    "lemma": "mobilis",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:112513"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "primum_non_nocere": {
+        "sentences": [
+            [
+                {
+                    "token": "primum",
+                    "lemma": "primum",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaIpoLemma:35374"
+                    ]
+                },
+                {
+                    "token": "non",
+                    "lemma": "non",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114108"
+                    ]
+                },
+                {
+                    "token": "nocere",
+                    "lemma": "noceo",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:113754"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "principium_individuationis": {
+        "sentences": [
+            [
+                {
+                    "token": "principium",
+                    "lemma": "principium",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:119505"
+                    ]
+                },
+                {
+                    "token": "individuationis",
+                    "lemma": "indiuiduatio",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:131353"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "pro_bono": {
+        "sentences": [
+            [
+                {
+                    "token": "pro",
+                    "lemma": "pro",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:118468"
+                    ]
+                },
+                {
+                    "token": "bono",
+                    "lemma": "bonum",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:91351"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "proprio_motu": {
+        "sentences": [
+            [
+                {
+                    "token": "proprio",
+                    "lemma": "proprius",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:119990"
+                    ]
+                },
+                {
+                    "token": "motu",
+                    "lemma": "motus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:113302"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "quid_pro_quo": {
+        "sentences": [
+            [
+                {
+                    "token": "quid",
+                    "lemma": "quis",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121165"
+                    ]
+                },
+                {
+                    "token": "pro",
+                    "lemma": "pro",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:118468"
+                    ]
+                },
+                {
+                    "token": "quo",
+                    "lemma": "qui",
+                    "upos": "PRON",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:121354"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "quod_erat_demonstrandum": {
+        "sentences": [
+            [
+                {
+                    "token": "quod",
+                    "lemma": "quis",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121165"
+                    ]
+                },
+                {
+                    "token": "erat",
+                    "lemma": "sum",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:126689"
+                    ]
+                },
+                {
+                    "token": "demonstrandum",
+                    "lemma": "demonstro",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:98568"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "quod_gratis_asseritur_gratis": {
+        "sentences": [
+            [
+                {
+                    "token": "quod",
+                    "lemma": "qui",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121354"
+                    ]
+                },
+                {
+                    "token": "gratis",
+                    "lemma": "gratis",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaIpoLemma:18247"
+                    ]
+                },
+                {
+                    "token": "asseritur",
+                    "lemma": "assero",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:90321"
+                    ]
+                },
+                {
+                    "token": "gratis",
+                    "lemma": "gratis",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaIpoLemma:18247"
+                    ]
+                },
+                {
+                    "token": "negatur",
+                    "lemma": "nego",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:113553"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 2,
+            "missing": 0
+        }
+    },
+    "quot_homines_tot_sententiae": {
+        "sentences": [
+            [
+                {
+                    "token": "quot",
+                    "lemma": "quot",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121302"
+                    ]
+                },
+                {
+                    "token": "homines",
+                    "lemma": "homo",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:105624"
+                    ]
+                },
+                {
+                    "token": "tot",
+                    "lemma": "tot",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:128477"
+                    ]
+                },
+                {
+                    "token": "sententiae",
+                    "lemma": "sententia",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:124342"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 4,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ratio_cognoscendi": {
+        "sentences": [
+            [
+                {
+                    "token": "ratio",
+                    "lemma": "ratio",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121458"
+                    ]
+                },
+                {
+                    "token": "cognoscendi",
+                    "lemma": "cognosco",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:94738"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "ratio_essendi": {
+        "sentences": [
+            [
+                {
+                    "token": "ratio",
+                    "lemma": "ratio",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121458"
+                    ]
+                },
+                {
+                    "token": "essendi",
+                    "lemma": "sum",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:126689"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "reductio_ad_absurdum": {
+        "sentences": [
+            [
+                {
+                    "token": "reductio",
+                    "lemma": "reductio",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121611"
+                    ]
+                },
+                {
+                    "token": "ad",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "absurdum",
+                    "lemma": "absurdus",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:87045"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "res_cogitans": {
+        "sentences": [
+            [
+                {
+                    "token": "res",
+                    "lemma": "res",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121868"
+                    ]
+                },
+                {
+                    "token": "cogitans",
+                    "lemma": "cogito",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:97288"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "res_extensa": {
+        "sentences": [
+            [
+                {
+                    "token": "res",
+                    "lemma": "res",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121868"
+                    ]
+                },
+                {
+                    "token": "extensa",
+                    "lemma": "extendo",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:102403"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "res_publica": {
+        "sentences": [
+            [
+                {
+                    "token": "res",
+                    "lemma": "res",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121868"
+                    ]
+                },
+                {
+                    "token": "publica",
+                    "lemma": "publicus",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:120358"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "sacrificium_intellectus": {
+        "sentences": [
+            [
+                {
+                    "token": "sacrificium",
+                    "lemma": "sacrificium",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:123092"
+                    ]
+                },
+                {
+                    "token": "intellectus",
+                    "lemma": "intellectus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:109547"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "salva_veritate": {
+        "sentences": [
+            [
+                {
+                    "token": "salva",
+                    "lemma": "saluus",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:123289"
+                    ]
+                },
+                {
+                    "token": "veritate",
+                    "lemma": "ueritas",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:129876"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "scientia_libera": {
+        "sentences": [
+            [
+                {
+                    "token": "scientia",
+                    "lemma": "scientia",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:127415"
+                    ]
+                },
+                {
+                    "token": "libera",
+                    "lemma": "liber",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:110381"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "scientia_media": {
+        "sentences": [
+            [
+                {
+                    "token": "scientia",
+                    "lemma": "scientia",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:127415"
+                    ]
+                },
+                {
+                    "token": "media",
+                    "lemma": "medius",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:111841"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "scientia_naturalis": {
+        "sentences": [
+            [
+                {
+                    "token": "scientia",
+                    "lemma": "scientia",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:127415"
+                    ]
+                },
+                {
+                    "token": "naturalis",
+                    "lemma": "naturalis",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:113423"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "sensus_communis": {
+        "sentences": [
+            [
+                {
+                    "token": "sensus",
+                    "lemma": "sensus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:124355"
+                    ]
+                },
+                {
+                    "token": "communis",
+                    "lemma": "communis",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:97171"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "sensus_divinitatis": {
+        "sentences": [
+            [
+                {
+                    "token": "sensus",
+                    "lemma": "sensus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:124355"
+                    ]
+                },
+                {
+                    "token": "divinitatis",
+                    "lemma": "diuinitas",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:99940"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "simplicius_sigillum_veri": {
+        "sentences": [
+            [
+                {
+                    "token": "simplicius",
+                    "lemma": "simplice",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaIpoLemma:67874"
+                    ]
+                }
+            ],
+            [
+                {
+                    "token": "sigillum",
+                    "lemma": "sigillum",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:124743"
+                    ]
+                },
+                {
+                    "token": "veri",
+                    "lemma": "uerus",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:129978"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "sine_qua_non": {
+        "sentences": [
+            [
+                {
+                    "token": "sine",
+                    "lemma": "sine",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:124883"
+                    ]
+                },
+                {
+                    "token": "qua",
+                    "lemma": "qui",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:121354"
+                    ]
+                },
+                {
+                    "token": "non",
+                    "lemma": "non",
+                    "upos": "ADV",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:114108"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "solo_numero": {
+        "sentences": [
+            [
+                {
+                    "token": "solo",
+                    "lemma": "solus",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:125109"
+                    ]
+                },
+                {
+                    "token": "numero",
+                    "lemma": "numerus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:113981"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "solus_ipse": {
+        "sentences": [
+            [
+                {
+                    "token": "solus",
+                    "lemma": "solus",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:125109"
+                    ]
+                },
+                {
+                    "token": "ipse",
+                    "lemma": "ipse",
+                    "upos": "DET",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:108945"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "solvitur_ambulando": {
+        "sentences": [
+            [
+                {
+                    "token": "solvitur",
+                    "lemma": "soluo",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:125108"
+                    ]
+                },
+                {
+                    "token": "ambulando",
+                    "lemma": "ambulo",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:88642"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "status_quo": {
+        "sentences": [
+            [
+                {
+                    "token": "status",
+                    "lemma": "status",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:127471"
+                    ]
+                },
+                {
+                    "token": "quo",
+                    "lemma": "quis",
+                    "upos": "PRON",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:121165"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "stipendium_peccati_mors_est": {
+        "sentences": [
+            [
+                {
+                    "token": "stipendium",
+                    "lemma": "stipendium",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:125716"
+                    ]
+                },
+                {
+                    "token": "peccati",
+                    "lemma": "peccatum",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:120856"
+                    ]
+                },
+                {
+                    "token": "mors",
+                    "lemma": "mors",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:112807"
+                    ]
+                },
+                {
+                    "token": "est",
+                    "lemma": "sum",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:126689"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 4,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "sub_specie_aeternitatis": {
+        "sentences": [
+            [
+                {
+                    "token": "sub",
+                    "lemma": "sub",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:125956"
+                    ]
+                },
+                {
+                    "token": "specie",
+                    "lemma": "species",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:125279"
+                    ]
+                },
+                {
+                    "token": "aeternitatis",
+                    "lemma": "aeternitas",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:87959"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "sui_generis": {
+        "sentences": [
+            [
+                {
+                    "token": "sui",
+                    "lemma": "suus",
+                    "upos": "DET",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:127165"
+                    ]
+                },
+                {
+                    "token": "generis",
+                    "lemma": "genus",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:104504"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "summum_bonum": {
+        "sentences": [
+            [
+                {
+                    "token": "summum",
+                    "lemma": "superus",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:126999"
+                    ]
+                },
+                {
+                    "token": "bonum",
+                    "lemma": "bonum",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:91351"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "tabula_rasa": {
+        "sentences": [
+            [
+                {
+                    "token": "tabula",
+                    "lemma": "tabula",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:127540"
+                    ]
+                },
+                {
+                    "token": "rasa",
+                    "lemma": "rado",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:122346"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "terminus_ad_quem": {
+        "sentences": [
+            [
+                {
+                    "token": "terminus",
+                    "lemma": "terminus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:127901"
+                    ]
+                },
+                {
+                    "token": "ad",
+                    "lemma": "ad",
+                    "upos": "ADP",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:87344"
+                    ]
+                },
+                {
+                    "token": "quem",
+                    "lemma": "qui",
+                    "upos": "PRON",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:121354"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "tertium_non_datur": {
+        "sentences": [
+            [
+                {
+                    "token": "tertium",
+                    "lemma": "tertius",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:127957"
+                    ]
+                },
+                {
+                    "token": "non",
+                    "lemma": "non",
+                    "upos": "ADV",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:114108"
+                    ]
+                },
+                {
+                    "token": "datur",
+                    "lemma": "do",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:99970"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "tertium_quid": {
+        "sentences": [
+            [
+                {
+                    "token": "tertium",
+                    "lemma": "tertius",
+                    "upos": "ADJ",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:127957"
+                    ]
+                },
+                {
+                    "token": "quid",
+                    "lemma": "quis",
+                    "upos": "PRON",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:121165"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "vade_mecum": {
+        "sentences": [
+            [
+                {
+                    "token": "vade",
+                    "lemma": "uado",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:129476"
+                    ]
+                },
+                {
+                    "token": "mecum",
+                    "lemma": "ego",
+                    "upos": "PRON",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:100712"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "veritas_vos_liberabit": {
+        "sentences": [
+            [
+                {
+                    "token": "veritas",
+                    "lemma": "ueritas",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:129876"
+                    ]
+                },
+                {
+                    "token": "vos",
+                    "lemma": "uos",
+                    "upos": "PRON",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaIpoLemma:110488"
+                    ]
+                },
+                {
+                    "token": "liberabit",
+                    "lemma": "libero",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:110392"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "via_negativa": {
+        "sentences": [
+            [
+                {
+                    "token": "via",
+                    "lemma": "uia",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:130088"
+                    ]
+                },
+                {
+                    "token": "negativa",
+                    "lemma": "negatiuus",
+                    "upos": "ADJ",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:113541"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "vice_versa": {
+        "sentences": [
+            [
+                {
+                    "token": "vice",
+                    "lemma": "uicis",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:130138"
+                    ]
+                },
+                {
+                    "token": "versa",
+                    "lemma": "uerto",
+                    "upos": "VERB",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:129966"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 2,
+            "ambiguous": 0,
+            "missing": 0
+        }
+    },
+    "vis_inertiae": {
+        "sentences": [
+            [
+                {
+                    "token": "vis",
+                    "lemma": "uolo",
+                    "upos": "VERB",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:130745"
+                    ]
+                },
+                {
+                    "token": "inertiae",
+                    "lemma": "inertia",
+                    "upos": "NOUN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:107523"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 1,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    },
+    "vox_populi_vox_dei": {
+        "sentences": [
+            [
+                {
+                    "token": "vox",
+                    "lemma": "uox",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:130806"
+                    ]
+                },
+                {
+                    "token": "populi",
+                    "lemma": "populus",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:118463"
+                    ]
+                },
+                {
+                    "token": "vox",
+                    "lemma": "uox",
+                    "upos": "NOUN",
+                    "spaceAfter": " ",
+                    "linking": [
+                        "lilaLemma:130806"
+                    ]
+                },
+                {
+                    "token": "dei",
+                    "lemma": "deus",
+                    "upos": "PROPN",
+                    "spaceAfter": "",
+                    "linking": [
+                        "lilaLemma:4810"
+                    ]
+                }
+            ]
+        ],
+        "stats": {
+            "direct": 3,
+            "ambiguous": 1,
+            "missing": 0
+        }
+    }
+}
