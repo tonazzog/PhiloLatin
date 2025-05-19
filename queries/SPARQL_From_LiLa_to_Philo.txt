@@ -1,0 +1,23 @@
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX lila: <http://lila-erc.eu/ontologies/lila/>
+PREFIX powla: <http://purl.org/powla/powla.owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+SELECT DISTINCT ?wrp ?philoexpr ?expression_wiki ?philosopher ?philosopher_wiki
+WHERE {
+  	SERVICE <https://lila-erc.eu/sparql/lila_knowledge_base/sparql> {
+    	?lilalemma ontolex:writtenRep ?wrp . FILTER regex(?wrp, "^homo$","i") .
+  	}
+  	?terminal lila:hasLemma  ?lilalemma.
+	?expression powla:hasTerminal ?terminal ;
+    			rdfs:label ?philoexpr .
+	?expression ontolex:evokes ?concept.
+  	?concept dct:creator ?creator ;
+             rdfs:seeAlso ?expression_wiki.
+  	?creator rdfs:label ?philosopher ;
+    		 rdfs:seeAlso ?philosopher_wiki.	
+}
+ORDER BY ?philoexpr
+
+

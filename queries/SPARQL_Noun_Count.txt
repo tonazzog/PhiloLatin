@@ -1,0 +1,14 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX lila: <http://lila-erc.eu/ontologies/lila/>
+PREFIX oa: <http://www.w3.org/ns/oa#>
+
+SELECT ?lemma (COUNT(?lemma) as ?occurences)
+WHERE {
+  ?pos rdfs:label ?pos_id. FILTER regex(?pos_id, "^POS=NOUN","i") .
+  ?annot  oa:hasBody ?pos .  
+  ?annot oa:hasTarget ?token_id . 
+  ?token_id lila:hasLemma ?lemma_id .
+  ?lemma_id rdfs:label ?lemma .
+} 
+GROUP BY ?lemma
+ORDER BY DESC(?occurences)
