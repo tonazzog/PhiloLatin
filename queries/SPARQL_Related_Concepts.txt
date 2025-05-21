@@ -1,0 +1,17 @@
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+
+SELECT ?philoexpr1 ?philoexpr2
+WHERE {   
+    ?concept1 rdf:type ontolex:LexicalConcept .
+  	?concept2 rdf:type ontolex:LexicalConcept .
+    ?concept1 skos:related ?concept2 .
+  	?expression1 ontolex:evokes ?concept1 ;
+                rdfs:label ?philoexpr1.
+  	?expression2 ontolex:evokes ?concept2 ;
+                rdfs:label ?philoexpr2.
+  	FILTER (lang(?philoexpr1) = 'la')
+	FILTER (lang(?philoexpr2) = 'la')
+}
