@@ -7488,158 +7488,107 @@
         <http://latinphilosophy.org/pos/noun> ;
     oa:hasTarget <http://latinphilosophy.org/token/expr-99/2> .
 
-<https://universaldependencies.org/la/feat/Adptype#Prep> rdfs:label "Adptype=Prep" ;
-    dc:title "Adptype#Prep" .
+<https://universaldependencies.org/la/feat/Adptype#Prep> rdfs:label "Adptype=Prep" .
 
-<https://universaldependencies.org/la/feat/Advtype#Tim> rdfs:label "Advtype=Tim" ;
-    dc:title "Advtype#Tim" .
+<https://universaldependencies.org/la/feat/Advtype#Tim> rdfs:label "Advtype=Tim" .
 
-<https://universaldependencies.org/la/feat/Aspect#Imp> rdfs:label "Aspect=Imp" ;
-    dc:title "Aspect#Imp" .
+<https://universaldependencies.org/la/feat/Aspect#Imp> rdfs:label "Aspect=Imp" .
 
-<https://universaldependencies.org/la/feat/Aspect#Perf> rdfs:label "Aspect=Perf" ;
-    dc:title "Aspect#Perf" .
+<https://universaldependencies.org/la/feat/Aspect#Perf> rdfs:label "Aspect=Perf" .
 
-<https://universaldependencies.org/la/feat/Aspect#Prosp> rdfs:label "Aspect=Prosp" ;
-    dc:title "Aspect#Prosp" .
+<https://universaldependencies.org/la/feat/Aspect#Prosp> rdfs:label "Aspect=Prosp" .
 
-<https://universaldependencies.org/la/feat/Case#Abl> rdfs:label "Case=Abl" ;
-    dc:title "Case#Abl" .
+<https://universaldependencies.org/la/feat/Case#Abl> rdfs:label "Case=Abl" .
 
-<https://universaldependencies.org/la/feat/Case#Acc> rdfs:label "Case=Acc" ;
-    dc:title "Case#Acc" .
+<https://universaldependencies.org/la/feat/Case#Acc> rdfs:label "Case=Acc" .
 
-<https://universaldependencies.org/la/feat/Case#Dat> rdfs:label "Case=Dat" ;
-    dc:title "Case#Dat" .
+<https://universaldependencies.org/la/feat/Case#Dat> rdfs:label "Case=Dat" .
 
-<https://universaldependencies.org/la/feat/Case#Gen> rdfs:label "Case=Gen" ;
-    dc:title "Case#Gen" .
+<https://universaldependencies.org/la/feat/Case#Gen> rdfs:label "Case=Gen" .
 
-<https://universaldependencies.org/la/feat/Case#Nom> rdfs:label "Case=Nom" ;
-    dc:title "Case#Nom" .
+<https://universaldependencies.org/la/feat/Case#Nom> rdfs:label "Case=Nom" .
 
-<https://universaldependencies.org/la/feat/Degree#Abs> rdfs:label "Degree=Abs" ;
-    dc:title "Degree#Abs" .
+<https://universaldependencies.org/la/feat/Degree#Abs> rdfs:label "Degree=Abs" .
 
-<https://universaldependencies.org/la/feat/Degree#Cmp> rdfs:label "Degree=Cmp" ;
-    dc:title "Degree#Cmp" .
+<https://universaldependencies.org/la/feat/Degree#Cmp> rdfs:label "Degree=Cmp" .
 
-<https://universaldependencies.org/la/feat/Gender#Fem> rdfs:label "Gender=Fem" ;
-    dc:title "Gender#Fem" .
+<https://universaldependencies.org/la/feat/Gender#Fem> rdfs:label "Gender=Fem" .
 
-<https://universaldependencies.org/la/feat/Gender#Masc> rdfs:label "Gender=Masc" ;
-    dc:title "Gender#Masc" .
+<https://universaldependencies.org/la/feat/Gender#Masc> rdfs:label "Gender=Masc" .
 
-<https://universaldependencies.org/la/feat/Gender#Neut> rdfs:label "Gender=Neut" ;
-    dc:title "Gender#Neut" .
+<https://universaldependencies.org/la/feat/Gender#Neut> rdfs:label "Gender=Neut" .
 
-<https://universaldependencies.org/la/feat/Inflclass#Indeura> rdfs:label "Inflclass=Indeura" ;
-    dc:title "Inflclass#Indeura" .
+<https://universaldependencies.org/la/feat/Inflclass#Indeura> rdfs:label "Inflclass=Indeura" .
 
-<https://universaldependencies.org/la/feat/Inflclass#Indeuri> rdfs:label "Inflclass=Indeuri" ;
-    dc:title "Inflclass#Indeuri" .
+<https://universaldependencies.org/la/feat/Inflclass#Indeuri> rdfs:label "Inflclass=Indeuri" .
 
-<https://universaldependencies.org/la/feat/Inflclass#Indeuro> rdfs:label "Inflclass=Indeuro" ;
-    dc:title "Inflclass#Indeuro" .
+<https://universaldependencies.org/la/feat/Inflclass#Indeuro> rdfs:label "Inflclass=Indeuro" .
 
-<https://universaldependencies.org/la/feat/Inflclass#Indeuru> rdfs:label "Inflclass=Indeuru" ;
-    dc:title "Inflclass#Indeuru" .
+<https://universaldependencies.org/la/feat/Inflclass#Indeuru> rdfs:label "Inflclass=Indeuru" .
 
-<https://universaldependencies.org/la/feat/Inflclass#Latanom> rdfs:label "Inflclass=Latanom" ;
-    dc:title "Inflclass#Latanom" .
+<https://universaldependencies.org/la/feat/Inflclass#Latanom> rdfs:label "Inflclass=Latanom" .
 
-<https://universaldependencies.org/la/feat/Inflclass#Latx> rdfs:label "Inflclass=Latx" ;
-    dc:title "Inflclass#Latx" .
+<https://universaldependencies.org/la/feat/Inflclass#Latx> rdfs:label "Inflclass=Latx" .
 
-<https://universaldependencies.org/la/feat/Inflclass[nominal]#Indeuri> rdfs:label "Inflclass[nominal]=Indeuri" ;
-    dc:title "Inflclass[nominal]#Indeuri" .
+<https://universaldependencies.org/la/feat/Inflclass[nominal]#Indeuri> rdfs:label "Inflclass[nominal]=Indeuri" .
 
-<https://universaldependencies.org/la/feat/Inflclass[nominal]#Indeuro> rdfs:label "Inflclass[nominal]=Indeuro" ;
-    dc:title "Inflclass[nominal]#Indeuro" .
+<https://universaldependencies.org/la/feat/Inflclass[nominal]#Indeuro> rdfs:label "Inflclass[nominal]=Indeuro" .
 
-<https://universaldependencies.org/la/feat/Mood#Imp> rdfs:label "Mood=Imp" ;
-    dc:title "Mood#Imp" .
+<https://universaldependencies.org/la/feat/Mood#Imp> rdfs:label "Mood=Imp" .
 
-<https://universaldependencies.org/la/feat/Mood#Ind> rdfs:label "Mood=Ind" ;
-    dc:title "Mood#Ind" .
+<https://universaldependencies.org/la/feat/Mood#Ind> rdfs:label "Mood=Ind" .
 
-<https://universaldependencies.org/la/feat/Mood#Sub> rdfs:label "Mood=Sub" ;
-    dc:title "Mood#Sub" .
+<https://universaldependencies.org/la/feat/Mood#Sub> rdfs:label "Mood=Sub" .
 
-<https://universaldependencies.org/la/feat/Number#Plur> rdfs:label "Number=Plur" ;
-    dc:title "Number#Plur" .
+<https://universaldependencies.org/la/feat/Number#Plur> rdfs:label "Number=Plur" .
 
-<https://universaldependencies.org/la/feat/Number#Sing> rdfs:label "Number=Sing" ;
-    dc:title "Number#Sing" .
+<https://universaldependencies.org/la/feat/Number#Sing> rdfs:label "Number=Sing" .
 
-<https://universaldependencies.org/la/feat/Numtype#Ord> rdfs:label "Numtype=Ord" ;
-    dc:title "Numtype#Ord" .
+<https://universaldependencies.org/la/feat/Numtype#Ord> rdfs:label "Numtype=Ord" .
 
-<https://universaldependencies.org/la/feat/Person#1> rdfs:label "Person=1" ;
-    dc:title "Person#1" .
+<https://universaldependencies.org/la/feat/Person#1> rdfs:label "Person=1" .
 
-<https://universaldependencies.org/la/feat/Person#2> rdfs:label "Person=2" ;
-    dc:title "Person#2" .
+<https://universaldependencies.org/la/feat/Person#2> rdfs:label "Person=2" .
 
-<https://universaldependencies.org/la/feat/Person#3> rdfs:label "Person=3" ;
-    dc:title "Person#3" .
+<https://universaldependencies.org/la/feat/Person#3> rdfs:label "Person=3" .
 
-<https://universaldependencies.org/la/feat/Person[psor]#3> rdfs:label "Person[psor]=3" ;
-    dc:title "Person[psor]#3" .
+<https://universaldependencies.org/la/feat/Person[psor]#3> rdfs:label "Person[psor]=3" .
 
-<https://universaldependencies.org/la/feat/Polarity#Neg> rdfs:label "Polarity=Neg" ;
-    dc:title "Polarity#Neg" .
+<https://universaldependencies.org/la/feat/Polarity#Neg> rdfs:label "Polarity=Neg" .
 
-<https://universaldependencies.org/la/feat/Poss#Yes> rdfs:label "Poss=Yes" ;
-    dc:title "Poss#Yes" .
+<https://universaldependencies.org/la/feat/Poss#Yes> rdfs:label "Poss=Yes" .
 
-<https://universaldependencies.org/la/feat/Prontype#Con> rdfs:label "Prontype=Con" ;
-    dc:title "Prontype#Con" .
+<https://universaldependencies.org/la/feat/Prontype#Con> rdfs:label "Prontype=Con" .
 
-<https://universaldependencies.org/la/feat/Prontype#Dem> rdfs:label "Prontype=Dem" ;
-    dc:title "Prontype#Dem" .
+<https://universaldependencies.org/la/feat/Prontype#Dem> rdfs:label "Prontype=Dem" .
 
-<https://universaldependencies.org/la/feat/Prontype#Ind> rdfs:label "Prontype=Ind" ;
-    dc:title "Prontype#Ind" .
+<https://universaldependencies.org/la/feat/Prontype#Ind> rdfs:label "Prontype=Ind" .
 
-<https://universaldependencies.org/la/feat/Prontype#Int> rdfs:label "Prontype=Int" ;
-    dc:title "Prontype#Int" .
+<https://universaldependencies.org/la/feat/Prontype#Int> rdfs:label "Prontype=Int" .
 
-<https://universaldependencies.org/la/feat/Prontype#Prs> rdfs:label "Prontype=Prs" ;
-    dc:title "Prontype#Prs" .
+<https://universaldependencies.org/la/feat/Prontype#Prs> rdfs:label "Prontype=Prs" .
 
-<https://universaldependencies.org/la/feat/Prontype#Rel> rdfs:label "Prontype=Rel" ;
-    dc:title "Prontype#Rel" .
+<https://universaldependencies.org/la/feat/Prontype#Rel> rdfs:label "Prontype=Rel" .
 
-<https://universaldependencies.org/la/feat/Prontype#Tot> rdfs:label "Prontype=Tot" ;
-    dc:title "Prontype#Tot" .
+<https://universaldependencies.org/la/feat/Prontype#Tot> rdfs:label "Prontype=Tot" .
 
-<https://universaldependencies.org/la/feat/Reflex#Yes> rdfs:label "Reflex=Yes" ;
-    dc:title "Reflex#Yes" .
+<https://universaldependencies.org/la/feat/Reflex#Yes> rdfs:label "Reflex=Yes" .
 
-<https://universaldependencies.org/la/feat/Tense#Fut> rdfs:label "Tense=Fut" ;
-    dc:title "Tense#Fut" .
+<https://universaldependencies.org/la/feat/Tense#Fut> rdfs:label "Tense=Fut" .
 
-<https://universaldependencies.org/la/feat/Tense#Past> rdfs:label "Tense=Past" ;
-    dc:title "Tense#Past" .
+<https://universaldependencies.org/la/feat/Tense#Past> rdfs:label "Tense=Past" .
 
-<https://universaldependencies.org/la/feat/Tense#Pres> rdfs:label "Tense=Pres" ;
-    dc:title "Tense#Pres" .
+<https://universaldependencies.org/la/feat/Tense#Pres> rdfs:label "Tense=Pres" .
 
-<https://universaldependencies.org/la/feat/Verbform#Fin> rdfs:label "Verbform=Fin" ;
-    dc:title "Verbform#Fin" .
+<https://universaldependencies.org/la/feat/Verbform#Fin> rdfs:label "Verbform=Fin" .
 
-<https://universaldependencies.org/la/feat/Verbform#Inf> rdfs:label "Verbform=Inf" ;
-    dc:title "Verbform#Inf" .
+<https://universaldependencies.org/la/feat/Verbform#Inf> rdfs:label "Verbform=Inf" .
 
-<https://universaldependencies.org/la/feat/Verbform#Part> rdfs:label "Verbform=Part" ;
-    dc:title "Verbform#Part" .
+<https://universaldependencies.org/la/feat/Verbform#Part> rdfs:label "Verbform=Part" .
 
-<https://universaldependencies.org/la/feat/Voice#Act> rdfs:label "Voice=Act" ;
-    dc:title "Voice#Act" .
+<https://universaldependencies.org/la/feat/Voice#Act> rdfs:label "Voice=Act" .
 
-<https://universaldependencies.org/la/feat/Voice#Pass> rdfs:label "Voice=Pass" ;
-    dc:title "Voice#Pass" .
+<https://universaldependencies.org/la/feat/Voice#Pass> rdfs:label "Voice=Pass" .
 
 <http://latinphilosophy.org/expression/en/0> a ontolex:LexicalEntry ;
     rdfs:label "from a statement qualified to a statement unqualified"@en ;
@@ -12073,9 +12022,11 @@
 <http://latinphilosophy.org/form/la/99> a ontolex:Form ;
     ontolex:writtenRep "Per accidens"@la .
 
-<http://latinphilosophy.org/pos/none> rdfs:label "POS=None" .
+<http://latinphilosophy.org/pos/none> a <https://universaldependencies.org/u/pos/None> ;
+    rdfs:label "POS=None" .
 
-<http://latinphilosophy.org/pos/propn> rdfs:label "POS=PROPN" .
+<http://latinphilosophy.org/pos/propn> a <https://universaldependencies.org/u/pos/PROPN> ;
+    rdfs:label "POS=PROPN" .
 
 <http://lila-erc.eu/data/id/lemma/100176> a lila:lemma ;
     rdfs:label "dubito" ;
@@ -12716,6 +12667,32 @@
 <http://lila-erc.eu/data/id/lemma/99948> a lila:lemma ;
     rdfs:label "diuisio" ;
     dc:title "diuisio" .
+
+<https://universaldependencies.org/u/pos/ADJ> rdfs:label "UD ADJ" .
+
+<https://universaldependencies.org/u/pos/ADP> rdfs:label "UD ADP" .
+
+<https://universaldependencies.org/u/pos/ADV> rdfs:label "UD ADV" .
+
+<https://universaldependencies.org/u/pos/AUX> rdfs:label "UD AUX" .
+
+<https://universaldependencies.org/u/pos/CCONJ> rdfs:label "UD CCONJ" .
+
+<https://universaldependencies.org/u/pos/DET> rdfs:label "UD DET" .
+
+<https://universaldependencies.org/u/pos/NOUN> rdfs:label "UD NOUN" .
+
+<https://universaldependencies.org/u/pos/None> rdfs:label "UD None" .
+
+<https://universaldependencies.org/u/pos/PART> rdfs:label "UD PART" .
+
+<https://universaldependencies.org/u/pos/PRON> rdfs:label "UD PRON" .
+
+<https://universaldependencies.org/u/pos/PROPN> rdfs:label "UD PROPN" .
+
+<https://universaldependencies.org/u/pos/SCONJ> rdfs:label "UD SCONJ" .
+
+<https://universaldependencies.org/u/pos/VERB> rdfs:label "UD VERB" .
 
 lp:corpus a powla:Corpus ;
     rdfs:label "Philosophical Latin Expressions Corpus" ;
@@ -18507,7 +18484,8 @@ In critical thinking and logical reasoning, recognizing argumentum ad populum is
 <http://latinphilosophy.org/feat/reflex_yes> a <https://universaldependencies.org/u/feat/Reflex#Yes> ;
     rdfs:label "Reflex=Yes" .
 
-<http://latinphilosophy.org/pos/cconj> rdfs:label "POS=CCONJ" .
+<http://latinphilosophy.org/pos/cconj> a <https://universaldependencies.org/u/pos/CCONJ> ;
+    rdfs:label "POS=CCONJ" .
 
 <http://latinphilosophy.org/token/expr-0/1> a powla:Terminal ;
     rdfs:label "a"@la ;
@@ -20684,7 +20662,8 @@ In critical thinking and logical reasoning, recognizing argumentum ad populum is
 <http://latinphilosophy.org/feat/numtype_ord> a <https://universaldependencies.org/u/feat/Numtype#Ord> ;
     rdfs:label "Numtype=Ord" .
 
-<http://latinphilosophy.org/pos/sconj> rdfs:label "POS=SCONJ" .
+<http://latinphilosophy.org/pos/sconj> a <https://universaldependencies.org/u/pos/SCONJ> ;
+    rdfs:label "POS=SCONJ" .
 
 <http://latinphilosophy.org/token/expr-0/4> a powla:Terminal ;
     rdfs:label "quid"@la ;
@@ -21384,7 +21363,8 @@ In critical thinking and logical reasoning, recognizing argumentum ad populum is
 <http://latinphilosophy.org/feat/prontype_rel> a <https://universaldependencies.org/u/feat/Prontype#Rel> ;
     rdfs:label "Prontype=Rel" .
 
-<http://latinphilosophy.org/pos/part> rdfs:label "POS=PART" .
+<http://latinphilosophy.org/pos/part> a <https://universaldependencies.org/u/pos/PART> ;
+    rdfs:label "POS=PART" .
 
 <http://lila-erc.eu/data/id/lemma/114108> a lila:lemma ;
     rdfs:label "non" ;
@@ -21408,7 +21388,8 @@ In critical thinking and logical reasoning, recognizing argumentum ad populum is
 <http://latinphilosophy.org/feat/person_1> a <https://universaldependencies.org/u/feat/Person#1> ;
     rdfs:label "Person=1" .
 
-<http://latinphilosophy.org/pos/aux> rdfs:label "POS=AUX" .
+<http://latinphilosophy.org/pos/aux> a <https://universaldependencies.org/u/pos/AUX> ;
+    rdfs:label "POS=AUX" .
 
 <http://latinphilosophy.org/creator/karl-popper> rdfs:label "Karl Popper"@en ;
     rdfs:seeAlso <https://www.wikidata.org/wiki/Q81244> ;
@@ -21417,13 +21398,15 @@ In critical thinking and logical reasoning, recognizing argumentum ad populum is
 <http://latinphilosophy.org/feat/polarity_neg> a <https://universaldependencies.org/u/feat/Polarity#Neg> ;
     rdfs:label "Polarity=Neg" .
 
-<http://latinphilosophy.org/pos/adv> rdfs:label "POS=ADV" .
+<http://latinphilosophy.org/pos/adv> a <https://universaldependencies.org/u/pos/ADV> ;
+    rdfs:label "POS=ADV" .
 
 <http://latinphilosophy.org/creator/baruch-spinoza> rdfs:label "Baruch Spinoza"@en ;
     rdfs:seeAlso <https://www.wikidata.org/wiki/Q35802> ;
     foaf:page <https://www.wikidata.org/wiki/Q35802> .
 
-<http://latinphilosophy.org/pos/det> rdfs:label "POS=DET" .
+<http://latinphilosophy.org/pos/det> a <https://universaldependencies.org/u/pos/DET> ;
+    rdfs:label "POS=DET" .
 
 <http://latinphilosophy.org/creator/hegel> rdfs:label "Hegel"@en ;
     rdfs:seeAlso <https://www.wikidata.org/wiki/Q15917370> ;
@@ -21457,7 +21440,8 @@ In critical thinking and logical reasoning, recognizing argumentum ad populum is
 <http://latinphilosophy.org/feat/person_3> a <https://universaldependencies.org/u/feat/Person#3> ;
     rdfs:label "Person=3" .
 
-<http://latinphilosophy.org/pos/pron> rdfs:label "POS=PRON" .
+<http://latinphilosophy.org/pos/pron> a <https://universaldependencies.org/u/pos/PRON> ;
+    rdfs:label "POS=PRON" .
 
 <http://latinphilosophy.org/branch/epistemology> a skos:Concept ;
     rdfs:seeAlso <https://www.wikidata.org/wiki/Q9471> ;
@@ -21503,14 +21487,17 @@ In critical thinking and logical reasoning, recognizing argumentum ad populum is
 <http://latinphilosophy.org/feat/aspect_imp> a <https://universaldependencies.org/u/feat/Aspect#Imp> ;
     rdfs:label "Aspect=Imp" .
 
-<http://latinphilosophy.org/pos/adj> rdfs:label "POS=ADJ" .
+<http://latinphilosophy.org/pos/adj> a <https://universaldependencies.org/u/pos/ADJ> ;
+    rdfs:label "POS=ADJ" .
 
 <http://latinphilosophy.org/feat/adptype_prep> a <https://universaldependencies.org/u/feat/Adptype#Prep> ;
     rdfs:label "Adptype=Prep" .
 
-<http://latinphilosophy.org/pos/verb> rdfs:label "POS=VERB" .
+<http://latinphilosophy.org/pos/verb> a <https://universaldependencies.org/u/pos/VERB> ;
+    rdfs:label "POS=VERB" .
 
-<http://latinphilosophy.org/pos/adp> rdfs:label "POS=ADP" .
+<http://latinphilosophy.org/pos/adp> a <https://universaldependencies.org/u/pos/ADP> ;
+    rdfs:label "POS=ADP" .
 
 <http://latinphilosophy.org/feat/gender_masc> a <https://universaldependencies.org/u/feat/Gender#Masc> ;
     rdfs:label "Gender=Masc" .
@@ -21541,7 +21528,8 @@ In critical thinking and logical reasoning, recognizing argumentum ad populum is
     rdfs:seeAlso <https://www.wikidata.org/wiki/Q84473023> ;
     foaf:page <https://www.wikidata.org/wiki/Q84473023> .
 
-<http://latinphilosophy.org/pos/noun> rdfs:label "POS=NOUN" .
+<http://latinphilosophy.org/pos/noun> a <https://universaldependencies.org/u/pos/NOUN> ;
+    rdfs:label "POS=NOUN" .
 
 <http://latinphilosophy.org/feat/case_nom> a <https://universaldependencies.org/u/feat/Case#Nom> ;
     rdfs:label "Case=Nom" .

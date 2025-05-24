@@ -1,0 +1,20 @@
+PREFIX oa: <http://www.w3.org/ns/oa#>
+PREFIX powla: <http://purl.org/powla/powla.owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+
+SELECT ?token ?feat ?udfeatid
+WHERE {
+  ?form ontolex:writtenRep ?wr.
+  FILTER (?wr ="Homo homini lupus"@la).
+  ?root rdf:type powla:root ;
+        ontolex:canonicalForm ?form ;
+        powla:hasTerminal ?tokenid .
+  ?tokenid rdfs:label ?token .
+  ?annotid oa:hasTarget ?tokenid ;
+           oa:hasBody ?featid .
+  ?featid rdfs:label ?feat ;
+          rdf:type ?udfeatid .
+} 
+ORDER BY ?tokenid ?feat

@@ -1,0 +1,27 @@
+PREFIX oa: <http://www.w3.org/ns/oa#>
+PREFIX po: <http://purl.org/ontology/po/>
+PREFIX powla: <http://purl.org/powla/powla.owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+
+SELECT ?token ?deprel ?deprel ?deptoken  (GROUP_CONCAT(CONCAT(?feat); separator="|") AS ?feats)
+WHERE {
+  ?form ontolex:writtenRep ?wr.
+  FILTER (?wr ="Homo homini lupus"@la).
+  ?root rdf:type powla:root ;
+        ontolex:canonicalForm ?form .
+  ?root powla:hasTerminal ?tokenid .
+  ?tokenid rdfs:label ?token .
+  OPTIONAL {
+    ?deprelid powla:hasSource ?tokenid ;
+              powla:hasTarget ?deptokenid ; 
+              rdfs:label ?deprel .
+    ?deptokenid rdfs:label ?deptoken
+  } .
+  ?annotid oa:hasTarget ?tokenid ;
+           oa:hasBody ?featid .
+  ?featid rdfs:label ?feat .
+} 
+GROUP BY ?tokenid ?token ?deprel ?deprel ?deptoken 
+ORDER BY ?tokenid ?feat
