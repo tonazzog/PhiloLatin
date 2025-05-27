@@ -5,23 +5,24 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
 
-SELECT ?token ?deprel ?deprel ?deptoken  (GROUP_CONCAT(CONCAT(?feat); separator="|") AS ?feats)
+SELECT ?token ?deprel ?headtoken  (GROUP_CONCAT(CONCAT(?feat); separator="|") AS ?feats)
 WHERE {
   ?form ontolex:writtenRep ?wr.
-  FILTER (?wr ="Homo homini lupus"@la).
+  FILTER (?wr ="Entia non sunt multiplicanda praeter necessitatem"@la).
   ?root rdf:type powla:root ;
         ontolex:canonicalForm ?form .
   ?root powla:hasTerminal ?tokenid .
   ?tokenid rdfs:label ?token .
   OPTIONAL {
-    ?deprelid powla:hasSource ?tokenid ;
-              powla:hasTarget ?deptokenid ; 
+    ?deprelid powla:hasSource ?headtokenid ;
+              powla:hasTarget ?tokenid ; 
               rdfs:label ?deprel .
-    ?deptokenid rdfs:label ?deptoken
+    ?headtokenid rdfs:label ?headtoken
   } .
   ?annotid oa:hasTarget ?tokenid ;
            oa:hasBody ?featid .
   ?featid rdfs:label ?feat .
 } 
-GROUP BY ?tokenid ?token ?deprel ?deprel ?deptoken 
+GROUP BY ?tokenid ?token ?deprel ?deprel ?headtoken 
 ORDER BY ?tokenid ?feat
+
